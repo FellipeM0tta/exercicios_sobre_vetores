@@ -1,4 +1,4 @@
-# exercicios sobre vetores
+# Exercicios Sobre Vetores
 **Neste repositório, esta presente exercícios sobre vetores, que fiz em aula. que envolvem conceito de:**
 
 * Variáveis;
